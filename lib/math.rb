@@ -1,7 +1,8 @@
-def sum = num1 + num2
-  num1 = 5
-  num2 = 6
-  5 + 6 = sum
+def add(x,y)
+  return x + y
+  x = 5
+  y = 6
+  x + y = sum 
 end
 
 end
