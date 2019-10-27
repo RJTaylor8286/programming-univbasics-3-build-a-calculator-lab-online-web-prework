@@ -1,28 +1,24 @@
-def add(x,y)
-  return x + y
-  x = 5
-  y = 6
-  x + y = sum 
-end
+def sum(num1, num2)
+  sum = num1 + num2
+  num1 = 5
+  num2 = 6
+  5 + 6 = sum
+return
 
 end
 
-def subtraction(num1, num2)
-
+def difference(num1, num2)
+  difference = num1 - num2
+  num1 = 6
+  num2 = 5
+  6-5 = difference
+  return
 end
 
-def division(num1, num2)
-
+def product(num1, num2)
+  product = num1 * num2
+  num1 = 5
+  num2 = 6
+  5 * 6 = product
 end
-
-def multiplication(num1, num2)
-
-end
-
-def modulo(num1, num2)
-
-end
-
-def square_root(num)
-
-end
+return
